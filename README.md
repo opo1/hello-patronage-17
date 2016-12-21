@@ -1,2 +1,4 @@
 # hello-patronage-17
-First repo
+my first repo
+
+I like rollerblades, swimming and cooking recently.
